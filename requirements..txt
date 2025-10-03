@@ -1,0 +1,10 @@
+tensorflow==2.13.0
+keras-adabound==0.3.0
+keras-preprocessing==1.1.2
+numpy==1.25.0
+pandas==2.1.0
+matplotlib==3.8.0
+opencv-python==4.9.0.72
+Pillow==10.0.0
+scikit-learn==1.3.0
+tqdm==4.66.1
